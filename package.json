@@ -1,18 +1,18 @@
 {
   "name": "new",
   "version": "1.0.0",
-  "description": "",
+  "description": "react 项目，二维码生成器",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
-    "qrcode-react": "0.1.16",
-    "qrcode.react": "0.9.3",
-    "react": "16.8.6",
-    "react-dom": "16.8.6",
-    "react-scripts": "3.0.1"
+    "qrcode-react": "~0.1.16",
+    "qrcode.react": "~0.9.3",
+    "react": "~16.8.6",
+    "react-dom": "~16.8.6",
+    "react-scripts": "~3.0.1"
   },
   "devDependencies": {
-    "typescript": "3.3.3"
+    "typescript": "~3.3.3"
   },
   "scripts": {
     "start": "react-scripts start",
