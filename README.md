@@ -3,7 +3,9 @@
 react项目，生成二维码demo
 
 ### 初始化，安装依赖
-```  npm install ```
+```  
+  npm install 
+```
 
 ### 实现方式一：
 ```javascript
@@ -37,5 +39,5 @@ react项目，生成二维码demo
   注意： 此种方式可以在二维码中内嵌logo
 ```
 
-## 效果图
-![blockchain](https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/u=702257389,1274025419&fm=27&gp=0.jpg "区块链")
+### 效果图
+![效果图](https://github.com/Lucky-LYZ/qrcode-react-demo/blob/master/src/assets/img/demo.png "效果图")
