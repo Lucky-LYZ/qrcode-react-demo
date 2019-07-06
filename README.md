@@ -3,7 +3,7 @@
 react项目，生成二维码demo
 
 ### 初始化，安装依赖
----  npm install
+```  npm install ```
 
 ### 实现方式一：
 ```javascript
